@@ -191,11 +191,13 @@ ECS task trong private app subnet
 
 **[CHỤP MÀN HÌNH - MH2 03] Private app route tới firewall**
 
-![MH2 03 - Private route to firewall](screenshots/mh2-03-private-route-to-firewall.png)
+![MH2 03 - Private route to firewall (AZ1)](screenshots/mh2-03-private-route-to-firewall1.png)
+
+![MH2 03 - Private route to firewall (AZ2)](screenshots/mh2-03-private-route-to-firewall2.png)
 
 **[CHỤP MÀN HÌNH - MH2 04] Firewall route tới NAT**
 
-![MH2 04 - Firewall route to NAT](screenshots/mh2-04-firewall-route-to-nat.png)
+![MH2 04 - Firewall route to NAT](screenshots/mh2-03-private-route-to-firewall1.png)
 
 **[CHỤP MÀN HÌNH - MH2 05] Firewall Alert Logs**
 
